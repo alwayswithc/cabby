@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cabby_wx"
+  id="myeclipse.1469867222708"
+  context-root="/cabby_wx"
+  j2ee-spec="5.0"
+  archive="cabby_wx.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

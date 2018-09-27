@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="bootstrap3.2.0/js/jquery-1.11.0.min.js"></script>
+    <script src="bootstrap3.2.0/js/bootstrap.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+    <link rel="stylesheet" href="bootstrap3.2.0/css/bootstrap.css">
+
+   
+  </head>
